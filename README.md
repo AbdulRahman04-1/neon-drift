@@ -29,7 +29,7 @@ HTML5 Canvas · CSS3 · JavaScript ES6 · Web Audio API · Local Storage
 2. Upload `index.html`, `style.css`, `game.js`, and `README.md` to the root of the repository.
 3. Go to **Settings → Pages → Build and deployment**.
 4. Select **Deploy from a branch**, branch **main**, folder **/(root)**, and save.
-5. Wait for deployment. Your game will be available at `https://YOUR_USERNAME.github.io/neon-drift/`.
+5. Wait for deployment. Your game will be available at `https://Abdulrahman04-1.github.io/neon-drift/`.
 
 ## LinkedIn post idea
 I built **Neon Drift**, a responsive browser arcade game using HTML5 Canvas, CSS, and vanilla JavaScript! 🚀
